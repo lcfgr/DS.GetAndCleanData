@@ -108,6 +108,6 @@ The variable **Activity** is of factor type, representing the activity (WALKING,
 
 The variable **Subject** is dimensionless number, representing the subject that performed the activity  
 
-The rest variables are the **mean** values of all the measurements. These variables are are named accordingly. They are normalized between [-1,1].  
+The rest variables are the **mean** values of all the measurements. These variables are named accordingly. They are normalized between [-1,1].  
 Accelerometer : **g**  
 Angular Velocity : **radians/second**  
