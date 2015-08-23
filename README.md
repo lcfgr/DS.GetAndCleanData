@@ -30,4 +30,4 @@ The run_analysis.R has proper comments of the following steps:
 * Find and filter the needed data from the dataset
 * Give the appropriate descriptive names to the columns of the data sets
 * Create the second independent tidy set with the average of each variable for each activity and each subject
-* Export the tidy data in a filename tidy_data.txt in the working directory
+* Export the tidy data in a filename tidy_data.txt in the working directory. The file has HEADER but no row names
