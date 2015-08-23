@@ -7,7 +7,7 @@ The following steps where performed to provide the tidy dataset
 * Filter and keep only the data that are  mean and standard deviation measurements.
 * Classify the products by the Activity Type and Subject Number
 * Calculate the mean value of all the mean and standard deviation measurements.
-* Export the data in the filename tidy_data.txt, in the "UCI HAR Dataset" directory
+* Export the data in the filename tidy_data.txt, in the working directory
 
 The final file contains a dataframe of 88 variables:
 

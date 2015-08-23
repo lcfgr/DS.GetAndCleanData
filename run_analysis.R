@@ -72,6 +72,6 @@ melted_dataset <- melt(needed_dataset)
 tidy_dataset <- dcast(melted_dataset, Activity + Subject ~ variable, mean)
 
 # Export tidy dataset
-write.table(tidy_dataset,"./tidy_data.txt")
-
 setwd('..')
+write.csv(tidy_dataset, file = "./tidy_data.txt",row.names = FALSE)
+
