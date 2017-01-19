@@ -1,4 +1,4 @@
-#Course: Statistical Inference
+#Course: Getting and Cleaning Data
 Part of John Hopkins' University Data Science specialisation (https://www.coursera.org/specializations/jhu-data-science)
 
 ## Getting and Cleaning Data project
